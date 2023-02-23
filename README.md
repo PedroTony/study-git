@@ -12,3 +12,4 @@ né
     git add [nome arquivo]
     git add .
     git commit m "explicação"
+    git push
