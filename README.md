@@ -13,3 +13,10 @@ né
     git add .
     git commit m "explicação"
     git push
+
+#### Branch
+
+Listar branches
+-git branch
+-git branch [nome da branch]
+-git checkout [nome da branch]
