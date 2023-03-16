@@ -16,7 +16,7 @@ né
 
 #### Branch
 
-Listar branches
--git branch
--git branch [nome da branch]
--git checkout [nome da branch]
+    Listar branches
+    -git branch
+    -git branch [nome da branch]
+    -git checkout [nome da branch]
