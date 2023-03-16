@@ -15,8 +15,8 @@ né
     git push
 
 #### Branch
-
 Listar branches
-    -git branch
-    -git branch [nome da branch]
-    -git checkout [nome da branch]
+
+    git branch
+    git branch [nome da branch]
+    git checkout [nome da branch]
